@@ -11,10 +11,11 @@
  }
 
 .Mainpart{
-	background: url(../image/back.jpg);
+    background: url(../image/back.jpg) no-repeat;
     width: 100%;
     background-repeat: no-repeat;
-    height: 650px;
+    background-size: cover;
+    height: 657px;
 
 }
 
